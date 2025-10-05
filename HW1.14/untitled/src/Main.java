@@ -9,7 +9,9 @@ public class Main {
             i += 1;
         }
         System.out.println(sum);
-        System.out.println(sum- (Math.PI*Math.PI));
+        System.out.println(sum- ((Math.PI*Math.PI)/6));
+
+
 
 
     }
